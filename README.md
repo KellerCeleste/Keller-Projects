@@ -1,0 +1,2 @@
+Projeto do Curso de Excel com Inteligência Artificial, trata-se de uma ferramenta de simulação de investimento em fundos imobiliários, com cenários de investimento de acordo com o a evolução no tempo, destacando o perfil de cada investidor e com possibilidade de simulação de 
+investimento em diferentes carteiras otimizando o melhor investimento de acordo com o perfil de aporte do investidor. para isso foram criadas fórmulas, tabelas, nomeação de campos, concatenando planilhas e facilitando a visualização dos dados para tomada de decisões de investimento
